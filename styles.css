@@ -1,0 +1,10 @@
+canvas {
+    border: 1px solid black;
+    background-image: url('img/duck_hunt.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
